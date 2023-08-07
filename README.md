@@ -102,7 +102,7 @@
    8. `curl -sS https://bootstrap.pypa.io/get-pip.py | python3.11`
 
 2. Скачайте `git` с помощью команды `sudo apt install git`.
-3. Скачайте FunPayCardinal с помощью команды `git clone https://github.com/woopertail/FunPayCardinal`.
+3. Скачайте FunPayCardinal
 4. Перейдите в папку `FunPayCardinal` с помощью команрды `cd FunPayCardinal`.
 5. Установите нужные пакеты с помощью команды `python3.11 setup.py`.
 6. Настройте конфиги и запустите FunPay Cardinal с помощью команды `python3.11 main.py`.
